@@ -1,0 +1,13 @@
+day 1 : cpp basics,pointer,object and classes
+basics of oops in cpp
+
+Day2 : scenario based development in oop in c++
+-scenarioA : simples classes with functionalities
+scenarioB  : Abstract base class situation
+scenarioC : Abstract base class with upcasting
+
+Day3:
+scenarioD : overloading in oop
+
+->>upcasting with virtual and non virtual function
+-->>use of const in different situation

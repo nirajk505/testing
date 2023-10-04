@@ -1,0 +1,6 @@
+Rule 1: const keyword is applied to the 'token' on its immediate left.
+if there is nothing in its left,const is applied to its immediate right
+
+Rule 2: while working with pointer, treat * symbol as a token too
+
+const int * ptr;
